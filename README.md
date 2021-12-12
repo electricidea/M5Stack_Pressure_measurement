@@ -7,4 +7,5 @@ The project page on hackster.io can be found here:
 [hackster.io page](https://www.hackster.io/hague/altitude-sickness-due-to-cooker-hoods-721664)
 
 Schematics:
+
 ![Schematics](/images/Schematics.JPG)
